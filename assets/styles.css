@@ -160,6 +160,6 @@ img {
 /* MEDIA QUERY */
 @media (min-width: 500px) {
   .card {
-    width: 500px;
+    width: 400px;
   }
 }
