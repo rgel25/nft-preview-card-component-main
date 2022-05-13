@@ -29,7 +29,7 @@ opacity to 1, creating the overlay effect over the card image on hover.
 
 ## Preview
 
-![Actual preview for my project - Desktop](./design/actual-dekstop.png)
+![Actual preview for my project - Desktop](./design/actual-desktop.png)
 <img src="./design/actual-mobile.png" style = "height: 50vh;">
 
 ## Deployment
